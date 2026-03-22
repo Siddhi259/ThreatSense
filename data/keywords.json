@@ -1,0 +1,46 @@
+{
+  "fear": {
+    "weight": 3,
+    "keywords": [
+      "blocked", "suspended", "arrested", "illegal", "violation",
+      "fraud", "compromised", "hacked", "deleted", "terminated",
+      "locked", "banned", "deactivated", "criminal", "lawsuit",
+      "penalty", "fine", "breach", "danger", "threat"
+    ]
+  },
+  "urgency": {
+    "weight": 2,
+    "keywords": [
+      "immediately", "urgent", "now", "act now", "hurry",
+      "last chance", "deadline", "expires", "limited time",
+      "within 24 hours", "today only", "right away", "asap",
+      "no delay", "quickly", "instant", "time sensitive"
+    ]
+  },
+  "authority": {
+    "weight": 2,
+    "keywords": [
+      "bank", "government", "admin", "official", "irs",
+      "police", "fbi", "legal", "court", "department",
+      "ministry", "authority", "headquarters", "ceo", "manager",
+      "officer", "verified", "certified", "institution"
+    ]
+  },
+  "greed": {
+    "weight": 1,
+    "keywords": [
+      "prize", "reward", "free", "won", "winner",
+      "cash", "money", "gift", "bonus", "offer",
+      "discount", "lottery", "jackpot", "earn", "profit",
+      "investment", "guaranteed", "million", "fortune"
+    ]
+  },
+  "trust": {
+    "weight": 1,
+    "keywords": [
+      "confirm", "verify", "update", "secure", "protect",
+      "account", "password", "login", "click here", "link",
+      "personal information", "details", "credentials", "ssn", "pin"
+    ]
+  }
+}

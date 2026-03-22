@@ -1,0 +1,11 @@
+message,expected_risk
+"Your bank account is blocked. Act immediately or face legal action.",HIGH
+"Congratulations! You won a prize. Claim your free reward now!",MEDIUM
+"Your account has been suspended due to illegal activity. Contact admin immediately.",HIGH
+"Meeting postponed to tomorrow. See you then.",LOW
+"URGENT: Government has flagged your account for fraud. Respond now to avoid arrest.",HIGH
+"We have a special offer for you. Limited time discount available.",MEDIUM
+"Your password needs to be updated. Click the link to verify your credentials.",MEDIUM
+"Hi, just checking in. Hope you are doing well.",LOW
+"IRS notice: You owe taxes. Pay immediately or face criminal charges.",HIGH
+"You have won a lottery jackpot of 1 million dollars. Claim your free money.",MEDIUM
