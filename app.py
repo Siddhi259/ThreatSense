@@ -174,4 +174,4 @@ with tab_stats:
 
 # ── Footer ────────────────────────────────────────────────────────────────────
 st.divider()
-st.caption("🛡 ThreatSense — Emotion-Aware Social Engineering Attack Detection System | Final Year Project | CSE 2025–2026")
+st.caption("🛡 ThreatSense — Emotion-Aware Social Engineering Attack Detection System | Third Year Project | CSE 2025–2026")
